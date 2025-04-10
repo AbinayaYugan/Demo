@@ -7,5 +7,4 @@ public class Encapsule {
         System.out.println("Added new file");
 
     }
-
 }
